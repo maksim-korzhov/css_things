@@ -1,1 +1,1 @@
-# css_things
+# CSS Tips
